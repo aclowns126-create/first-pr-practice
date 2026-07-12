@@ -1,6 +1,6 @@
 # first-pr-practice
 
-A tiny toy project used to practice makeing and submitting a pull request on GitHub.
+A tiny toy project used to practice making and submitting a pull request on GitHub.
 
 ## What's here
 
